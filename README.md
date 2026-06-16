@@ -26,7 +26,7 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
     * [DevOps Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-805005E992EA)
     * [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485)
     * [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-58FA14F64C9B)
-* **Academic Goal:** Integrating a top-tier **BUT Réseaux & Télécommunications** to build a solid foundation in network engineering and IoT.
+* **Academic Goal:** Integrating a top-tier **BUT Réseaux & Télécommunications(Bachelor’s Degree in Networks and Telecommunications)** to build a solid foundation in network engineering and IoT.
 * **Professional Goal:** Achieving the **Google Cloud Digital Leader** certification upon turning 18 in December 2026.
 * **Vision:** Specialized in integrating AI for datacenters and IoT security.
 
@@ -34,13 +34,13 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 
 # 🇫🇷
 
-Je suis un étudiant de 17 ans, passionné par l'intersection entre **l'infrastructure IT, le Cloud Computing, l'IA et la musique**. Actuellement scolarisé au **CNED** avec une spécialisation en **Mathématiques et NSI** (Numérique et Sciences Informatiques), je concilie des études académiques exigeantes avec un engagement profond envers la maîtrise technique professionnelle.
+Je suis un étudiant de 17 ans, passionné par l'intersection entre **l'infrastructure IT, le Cloud Computing, l'IA et la musique**. Actuellement scolarisé au **CNED** avec une spécialisation en **Mathématiques et NSI** (Numérique et Sciences Informatiques), je combine des études académiques exigeantes avec un engagement autonome envers la maîtrise technique professionnelle.
 
 ### 🔭 Ce que je fais
 * **Infrastructure & DevOps :** Architecture et gestion d'un Homelab personnel (Proxmox, Docker) et déploiement de solutions SaaS B2B résilientes.
 * **Automatisation & Données :** Développement de pipelines complexes (n8n, Python) pour l'intelligence de données automatisée et la surveillance des menaces.
 * **Art & Numérique :** Exploration de la dimension créative de la technologie à travers l'art génératif et le VJing pour des performances live.
-* **Musique :** Hautboïste passionné au Conservatoire de Cannes, alliant rigueur et créativité.
+* **Musique :** Hautboïste passionné au Conservatoire de Cannes.
 
 ### 🏅 Certifications IBM SkillsBuild
 *(Voir le tableau ci-dessus pour les détails et liens de vérification)*
