@@ -14,9 +14,11 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 
 | Certificat | Sujet | Date de complétion |
 | :--- | :--- | :--- |
-| ![IA Cert 1](1Completion%20Certificate%20_%20SkillsBuild.png) | [Introduction to Artificial Intelligence]| 14 Juin 2026 |
-| ![IA Cert 2](2Completion%20Certificate%20_%20SkillsBuild.png) | [The Intelligence Behind AI] | 15 Juin 2026 |
-| ![IA Cert 3](3Completion%20Certificate%20_%20SkillsBuild.png) | [Machine Learning]| 28 Juin 2026 |
+| ![IA Cert 1](1Completion%20Certificate%20_%20SkillsBuild.png) | Introduction to Artificial Intelligence | 14 Juin 2026 |
+
+| ![IA Cert 2](2Completion%20Certificate%20_%20SkillsBuild.png) | The Intelligence Behind AI | 15 Juin 2026 |
+
+| ![IA Cert 3](3Completion%20Certificate%20_%20SkillsBuild.png) | Machine Learning| 28 Juin 2026 |
 
 ---
 
