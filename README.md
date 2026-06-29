@@ -53,7 +53,7 @@ Je suis un étudiant de 17 ans, passionné par l'intersection entre **l'infrastr
 *(Voir le tableau ci-dessus pour les détails)*
 
 ### Objectifs et Focus actuel
-* **Apprentissage :** En cours de validation du module [IBM Cybersecurity Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2).
+* **Apprentissage :** En cours de validation du module [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) & [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
 * **Parcours intermédiaire :** Je prévois de suivre plusieurs formations IBM (Python, DevOps, Cloud, AI) avant de me spécialiser sur les certifications Google.
 * **Objectif académique :** Intégrer un **BUT Réseaux & Télécommunications** de premier plan pour poser des bases solides en ingénierie réseau et IoT.
 * **Objectif professionnel :** Obtenir la certification **Google Cloud Digital Leader** dès mes 18 ans en décembre 2026.
