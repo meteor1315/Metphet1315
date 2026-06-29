@@ -6,7 +6,9 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 * **Infrastructure & DevOps:** Architecting and managing a personal Homelab (Proxmox, Docker) and beta deploying resilient B2B SaaS solutions.
 * **Automation & Data:** Developing complex pipelines (n8n, Python) for automated data intelligence and threat monitoring.
 * **Art & Digital:** Exploring the creative side of technology through digital art and VJing for live performances.
-* **Music:** Dedicated oboist at the Cannes Conservatory, blending rigor and creativity.
+* **Music:** Oboist at the Cannes Conservatory, blending rigor and creativity.
+
+
 
 ---
 
@@ -41,13 +43,14 @@ I am a 17-year-old student, passionate about the intersection of **IT Infrastruc
 
 # 🇫🇷
 
-Je suis un étudiant de 17 ans, passionné par l'intersection entre **l'infrastructure IT, le Cloud Computing, l'IA et la musique**. Actuellement scolarisé au **CNED** avec une spécialisation en **Mathématiques et NSI** (Numérique et Sciences Informatiques), je combine des études académiques exigeantes avec un engagement autonome envers la maîtrise technique professionnelle.
+Je suis un étudiant de 17 ans, passionné par le pont entre **l'infrastructure IT, le Cloud Computing, l'IA et la musique**. Actuellement scolarisé au **CNED** avec une spécialisation en **Mathématiques et NSI** (Numérique et Sciences Informatiques), je combine des études académiques stricte avec un engagement autonome vers la maîtrise technique professionnelle.
 
 ### Ce que je fais
 * **Infrastructure & DevOps :** Architecture et gestion d'un Homelab personnel (Proxmox, Docker) et déploiement beta de solutions SaaS B2B résilientes.
 * **Automatisation & Données :** Développement de pipelines complexes (n8n, Python) pour l'intelligence de données automatisée et la surveillance des menaces.
 * **Art & Numérique :** Exploration de la dimension créative de la technologie à travers l'art génératif et le VJing pour des performances live.
-* **Musique :** Hautboïste passionné au Conservatoire de Cannes.
+* **Musique :** Hautboïste au Conservatoire de Cannes.
+
 
 ### Certifications IBM SkillsBuild
 *(Voir le tableau ci-dessus pour les détails)*
