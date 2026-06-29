@@ -1,6 +1,6 @@
 # Hi there, I'm Melchior.C
 
-I am a 17-year-old student, passionate about the intersection of **IT Infrastructure, Cloud Computing, AI, and Music**. Currently enrolled at the **CNED** with a focus on **Mathematics and NSI** (Mathematics and Digital Sciences and Computer Science), I balance rigorous academic studies with a dedicated commitment to professional technical mastery.
+I am a 17-year-old student, passionate about the bridge of **IT Infrastructure, Cloud Computing, AI, and Music**. Currently enrolled at the **CNED** with a focus on **Mathematics and NSI** (Mathematics and Digital Sciences and Computer Science), I balance rigorous academic studies with a dedicated commitment to professional technical mastery.
 
 ### What I do
 * **Infrastructure & DevOps:** Architecting and managing a personal Homelab (Proxmox, Docker) and beta deploying resilient B2B SaaS solutions.
