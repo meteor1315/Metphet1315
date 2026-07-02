@@ -13,11 +13,9 @@ I am a 17-year-old student, passionate about the bridge of **IT Infrastructure, 
 ---
 
 ### Certifications IBM SkillsBuild
-
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c704af24-5139-4dcc-a661-81a10dca1644" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 | Certificat | Sujet | Date de complétion |
 | :--- | :--- | :--- |
-|<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c704af24-5139-4dcc-a661-81a10dca1644" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>|  |  |
 | Cloud Computing Fundamentals - 22% |  |  |
 | in progress| in progress | in progress |
 
