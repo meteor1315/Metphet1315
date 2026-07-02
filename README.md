@@ -14,13 +14,13 @@ I am a 17-year-old student, passionate about the bridge of **IT Infrastructure, 
 
 ### Certifications IBM SkillsBuild
 
-| Certificat | Sujet | Date de complétion |
-| :--- | :--- | :--- |
-| Cloud Computing Fundamentals - 22% |  |  |
-| in progress| in progress | in progress |
+| Badge | Certification / Module | Date de complétion |
+| :---: | :--- | :---: |
+| <a href="https://www.credly.com/go/XUmwv2Ks" target="_blank"><img src="https://images.credly.com/images/3fa8dfa5-f9bc-43eb-8e3b-9a850117436c/image.png" width="90" alt="IBM AI Fundamentals Badge"></a> | **AI Fundamentals: Foundations for Understanding AI** | 02 Juillet 2026 |
+| ⏳ | **Cloud Computing Fundamentals** (22%) | *In progress* |
 
 
----
+--- 
 
 ### Current Focus & Future Goals
 * **Learning:** Currently pursuing [AI Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-AC28D1A01CA2) & [Cloud Computing Fundamentals](https://students.yourlearning.ibm.com/activity/PLAN-43A030B97485).
