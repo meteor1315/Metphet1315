@@ -16,7 +16,7 @@ I am a 17-year-old student, passionate about the bridge of **IT Infrastructure, 
 
 | Badge | Certification / Module | Date de complétion |
 | :---: | :--- | :---: |
-| <a href="https://www.credly.com/go/XUmwv2Ks" target="_blank"><img src="https://images.credly.com/images/3fa8dfa5-f9bc-43eb-8e3b-9a850117436c/local_image.png" width="90" alt="IBM AI Fundamentals Badge"></a> | **AI Fundamentals: Foundations for Understanding AI** | 02 Juillet 2026 | 
+| <a href="https://www.credly.com/go/XUmwv2Ks" target="_blank"><img src="badge-ai-fundamentals.png" width="90" alt="IBM AI Fundamentals Badge"></a> | **AI Fundamentals: Foundations for Understanding AI** | 02 Juillet 2026 |
 | ⏳ | **Cloud Computing Fundamentals** (22%) | *In progress* |
 
 
