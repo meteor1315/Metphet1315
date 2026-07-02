@@ -14,14 +14,10 @@ I am a 17-year-old student, passionate about the bridge of **IT Infrastructure, 
 
 ### Certifications IBM SkillsBuild
 
+
 | Certificat | Sujet | Date de complétion |
 | :--- | :--- | :--- |
-| AI Fundamentals: Foundations for Understanding AI - 87% |  |  |
-| ![IA Module 1](1Completion%20Certificate%20_%20SkillsBuild.png) | Introduction to Artificial Intelligence | 14 Juin 2026 |
-| ![IA Module 2](2Completion%20Certificate%20_%20SkillsBuild.png) | The Intelligence Behind AI | 15 Juin 2026 |
-| ![IA Module 3](3Completion%20Certificate%20_%20SkillsBuild.png) | Machine Learning| 28 Juin 2026 |
-| ![IA Module 3](4Completion%20Certificate%20_%20SkillsBuild.png) | Neural Networks and Deep Learning| 29 Juin 2026 |
-| ![IA Module 4] ⏳ | AI Forms and Functions| in progress |
+|<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c704af24-5139-4dcc-a661-81a10dca1644" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>|  |  |
 | Cloud Computing Fundamentals - 22% |  |  |
 | in progress| in progress | in progress |
 
